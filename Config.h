@@ -34,10 +34,11 @@
 //  TO DISABLE : leave commented — no impact on the rest of the project.
 //  REQUIRED LIBRARY if enabled: "PubSubClient" by Nick O'Leary
 // =============================================================================
-#define MQTT_BROKER  "192.168.1.x"    // IP or hostname of your broker
-#define MQTT_PORT    1883
-#define MQTT_USER    "your_mqtt_user"
-#define MQTT_PASS    "your_mqtt_password"
+
+//#define MQTT_BROKER  "192.168.1.x"    // IP or hostname of your broker
+//#define MQTT_PORT    1883
+//#define MQTT_USER    "your_mqtt_user"
+//#define MQTT_PASS    "your_mqtt_password"
 
 // =============================================================================
 //  LD2410C — Presence sensor
