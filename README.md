@@ -161,7 +161,7 @@ To prevent excessive current draw when using pure white (R+G+B = max), brightnes
 
 ## Hardware
 
-- **Board**: CYD Gold (ESP32-S3, 240 MHz, 8 MB PSRAM, 16 MB Flash)
+- **Board**: ESP32-S3 ESP32 S3 Display CYD 2.8 inch IPS Capacitive Touch Screen 240x320 Pixel
 - **Screen**: ILI9341V 2.8" IPS 320×240
 - **Touch**: FT6336G capacitive
 - **Audio codec**: ES8311 *(GPIOs kept, not used in this build)*
@@ -169,6 +169,7 @@ To prevent excessive current draw when using pure white (R+G+B = max), brightnes
 - **LEDs**: WS2812B (12 fan + 36 ring)
 - **Fan**: 4-wire brushless, 25 kHz PWM
 - **Presence**: LD2410C mmWave radar
+- **Power**: XL6009 DC-DC 
 
 ---
 
