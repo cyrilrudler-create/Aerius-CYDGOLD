@@ -161,6 +161,7 @@ To prevent excessive current draw when using pure white (R+G+B = max), brightnes
 
 ## Hardware
 
+- **Print**: https://cults3d.com/fr/mod%C3%A8le-3d/maison/aerius-gold-ventilateur-connecte-argb-esp32-s3-ecran-tactile-home-assistan
 - **Board**: ESP32-S3 ESP32 S3 Display CYD 2.8 inch IPS Capacitive Touch Screen 240x320 Pixel
 - **Screen**: ILI9341V 2.8" IPS 320×240
 - **Touch**: FT6336G capacitive
